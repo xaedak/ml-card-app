@@ -23,7 +23,7 @@ fallthrough = true
 # then paste the id it prints in place of REPLACE_WITH_KV_ID below.
 [[kv_namespaces]]
 binding = "SESSIONS"
-id = "REPLACE_WITH_KV_ID"
+id = "a053f8aef86e48edba006b2ab0164df6"
 
 # Secrets (set with `wrangler secret put NAME`, never written to this file):
 #   DISCORD_PUBLIC_KEY   - from Discord Developer Portal > General Information
